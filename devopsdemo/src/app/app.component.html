@@ -1,0 +1,8 @@
+<div class="box">
+  <p id="para">{{fetched_msg["message"]}}</p>
+  <input  placeholder="Enter your message" class="text-input" [(ngModel)]="msg">
+  <div class="action">
+      <button mat-raised-button (click)="send_msg()" style="margin-right: 110px;" id="sendBtn">Send message</button>
+      <button mat-raised-button (click)="get_msg()" id="getBtn">Get message</button>
+  </div>
+</div>

@@ -1,0 +1,11 @@
+.box{
+    margin-top: 40vh;
+    margin-left: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-input{
+    margin-bottom: 30px;
+    width: 300px;
+}
