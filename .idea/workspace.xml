@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c5d48a-df2e-4fa0-9eb2-31c8704af6bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/devopsdemo" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devopsdemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/devopsdemo/src/app/app.module.ts" afterDir="false" />
-    </list>
+    <list default="true" id="a8c5d48a-df2e-4fa0-9eb2-31c8704af6bf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +60,30 @@
       <option name="presentableId" value="Default" />
       <updated>1639658025298</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updating get message functionality">
+      <created>1639660233500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639660233500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating get message functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating get message functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1639659822710">
