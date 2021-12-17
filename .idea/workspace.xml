@@ -19,14 +19,100 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c5d48a-df2e-4fa0-9eb2-31c8704af6bf" name="Default Changelist" comment="" />
+    <list default="true" id="a8c5d48a-df2e-4fa0-9eb2-31c8704af6bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/MyResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/database/DatabaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/filter/CorsFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/model/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/model/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/resources/MessageResources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/resources/ProfileResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/service/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/java/com/telusko/demorest/service/ProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/MyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/database/DatabaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/filter/CorsFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/model/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/model/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/resources/MessageResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/resources/ProfileResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/classes/com/telusko/demorest/service/ProfileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/CorsFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/MyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/database/DatabaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/model/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/model/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/resources/MessageResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/resources/ProfileResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/classes/com/telusko/demorest/service/ProfileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/FastInfoset-1.2.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/activation-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/aopalliance-repackaged-2.5.0-b42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/cdi-api-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/hk2-api-2.5.0-b42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/hk2-locator-2.5.0-b42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/hk2-utils-2.5.0-b42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/istack-commons-runtime-3.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javassist-3.22.0-CR2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.el-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.inject-2.5.0-b42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.interceptor-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.json-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.json-api-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.json.bind-api-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/javax.ws.rs-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jaxb-api-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jaxb-core-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jaxb-impl-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jaxb-runtime-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-client-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-common-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-container-servlet-core-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-hk2-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-media-jaxb-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-media-json-binding-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/jersey-server-2.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/plexus-cipher-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/plexus-sec-dispatcher-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/plexus-utils-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/sonar-maven-plugin-3.9.0.2155.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/sonar-scanner-api-2.16.1.361.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/stax-ex-1.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/txw2-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/lib/yasson-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/demorest/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/demorest/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/demorest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demorest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/devopsdemo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -80,6 +166,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating get message functionality" />

@@ -1,9 +1,0 @@
-com\telusko\demorest\resources\ProfileResource.class
-com\telusko\demorest\resources\MessageResources.class
-com\telusko\demorest\database\DatabaseClass.class
-com\telusko\demorest\MyResource.class
-com\telusko\demorest\service\ProfileService.class
-com\telusko\demorest\service\MessageService.class
-com\telusko\demorest\CorsFilter.class
-com\telusko\demorest\model\Message.class
-com\telusko\demorest\model\Profile.class
