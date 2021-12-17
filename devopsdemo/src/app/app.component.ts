@@ -11,6 +11,8 @@ export class AppComponent {
   url: string = 'http://localhost:5000/webapi/messages';
   msg: string = '';
   fetched_msg:any = '';
+
+  // Function to send the message
   send_msg()
   {
     let data = {
@@ -25,6 +27,7 @@ export class AppComponent {
     });
   }
 
+  // Function to get the message
   async get_msg()
   {
     let temp_data: any = await this.http.get(this.url).toPromise().then();
