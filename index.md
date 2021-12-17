@@ -8,7 +8,6 @@ Technologies used:
  3. Backend based on python and flask.
 
 Procedure to run the application :
-
  1. Clone the repo on your local system
  2. Pre-requisite : Install python and Angular on your system
  3. To run the frontend navigate to the frontend folder and run npm i followed by npm start
