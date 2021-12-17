@@ -1,7 +1,7 @@
 # OSSE-Assignment
 
-## Group 8
-## Group Members
+## Group no. 8
+## Group Members:-
 
 1. Vibha R : 2020SP93064
 2. Abheesht Srivastava : 2020SP93058
