@@ -12,6 +12,7 @@ export class AppComponent {
   msg: string = '';
   fetched_msg:any = '';
   
+  // Function to send the message
   send_msg()
   {
     let data = {
@@ -25,6 +26,8 @@ export class AppComponent {
     alert("Data Sent");
     });
   }
+  
+  // Function to get the message
   async get_msg()
   {
     let temp_data = await this.http.get(this.url).toPromise().then();
